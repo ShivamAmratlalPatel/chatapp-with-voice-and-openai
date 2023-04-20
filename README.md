@@ -25,4 +25,5 @@ To use this app, you need to open your browser and go to `http://localhost:8000`
 You can then start chatting with the app.
 
 
-
+<img width="992" alt="image" src="https://user-images.githubusercontent.com/57173837/233501965-bb2723a9-1004-43db-9fc4-9cb744a720ed.png">
+<img width="963" alt="image" src="https://user-images.githubusercontent.com/57173837/233502003-40d01e0a-4404-435d-b5db-d22f7e5afc58.png">
